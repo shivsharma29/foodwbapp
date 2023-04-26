@@ -1,0 +1,63 @@
+body{
+    background-color: brown;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+
+
+
+#main-div{
+
+    background-color: bisque;
+    margin: 10px;
+    /* height: 70px; */
+    padding: 10px;
+
+
+
+}
+.topbar{
+    margin: 10px;
+    width: 100%;
+    
+}
+a{
+    margin: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+.food-name{
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+.images{
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    border-radius: 10px;
+}
+#pizza{
+    text-align: center;
+    margin: auto;
+   
+}
+#Vada-pav{
+    text-align: center;
+    margin: auto;
+}
+#Burger{
+    text-align: center;
+    margin: auto;
+}
+#Biryani{
+    text-align: center;
+    margin: auto;
+}
+#Cake{
+    text-align: center;
+    margin: auto;
+}
